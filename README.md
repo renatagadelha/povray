@@ -9,14 +9,23 @@ You need the POV-Ray software installed in your computer.
 
 ## Examples
 
-- `0-Inicio.pov` - Differents types of light.  
-![Preview 0-Inicio.pov](./0-Inicio.bmp)
+- `01-first.pov` - Differents colors of light.  
+![Preview 01-first.pov](./01-first.bmp)
 
-- `01-Palhaco.pov` - Sphere (Clown).
-![Preview 01-Palhaco.pov](./01-Palhaco.bmp)
+- `02-clown.pov` - Sphere (Clown).  
+![Preview 02-clown.pov](./02-clown.bmp)
 
-- `02-Iluminacao Fontes de Luz.pov` - Differents shapes and lights.
-![Preview 02-Iluminacao Fontes de Luz.pov](./02-Iluminacao Fontes de Luz.bmp)
+- `03-shapes` - Basics shapes and lights.
+![Preview 03-shapes](./03-shapes.bmp)
 
-- `03-1 - Modelos de Iluminacao.pov` - Different types of light.  
-![Preview 03-1 - Modelos de Iluminacao.pov](./03-1 - Modelos de Iluminacao.bmp)
+- `04-torus-light.pov` - Different types of light in the Torus.  
+![Preview 04-torus-light.pov](./04-torus-light.bmp)
+
+- `05-light-walls.pov` - Different types of light in the wall.  
+![Preview 05-light-walls.pov](./05-light-walls.bmp)
+
+- `06-solids-views.pov` - Different types of solids.  
+![Preview 06-solids-views.pov](./06-solids-views.bmp)
+
+- `07-shadows.pov` - Different types of lights/shadows.  
+![Preview 07-shadows.pov](./07-shadows.bmp)
