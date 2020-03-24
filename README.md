@@ -10,4 +10,4 @@ You need the POV-Ray software installed in your computer.
 ## Examples
 
 - ´0-Inicio.pov´ - Different types of light.
-![Preview 0-Inicio.pov](0-Inicio.bmp)
+![Preview 0-Inicio.pov](./0-Inicio.bmp)
